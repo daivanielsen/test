@@ -1,2 +1,1 @@
-This is a test.
-To show you how to use version control.
+This is a demonstration to show you how to use version control.
